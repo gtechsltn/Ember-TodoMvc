@@ -1,1 +1,9 @@
-/* Ember supports plain CSS out of the box. More info: https://cli.emberjs.com/release/advanced-use/stylesheets/ */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.my-row {
+  margin: 15px;
+  padding: 15px;
+}

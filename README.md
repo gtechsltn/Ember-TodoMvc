@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# todomvc
+# Todo MVC
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
@@ -55,7 +54,3 @@ Specify what it takes to deploy your app.
 - Development Browser Extensions
   - [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   - [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-=======
-# Ember-TodoMvc
-TodoMVC in Ember.js
->>>>>>> 802349bbd0c32f8e4532a8e5b06fcdc82fd26093
